@@ -1,1 +1,13 @@
 /nbproject/private/
+*.php
+!index.php
+assets/videos/
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
